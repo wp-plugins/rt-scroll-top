@@ -1,0 +1,14 @@
+#rtscrolltop{ 
+height: 40px; 
+width: 40px; 
+position:fixed;
+bottom:50px;
+right:50px;
+text-indent:-9999px;
+display:none;
+background: url("icon_top.png"); 
+-webkit-transition-duration: 0.1s; 
+-moz-transition-duration: 0.1s; 
+transition-duration: 0.1s; 
+}
+
