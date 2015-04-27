@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Royal Scroll to Top
-Plugin URI: http://wordpress.org/plugins/rt-scroll-to-top/
+Plugin URI: http://www.wordpress.org/plugins/rt-scroll-to-top/
 Description: Simple scroll to top plugin
-Author: Mehdi Akram
-Version: 1.0
-Author URI: http://shamokaldarpon.com/
+Author: SM Mehdi Akram
+Version: 1.0.2
+Author URI: http://www.shamokaldarpon.com/
 */
 
 /*Some Set-up*/
